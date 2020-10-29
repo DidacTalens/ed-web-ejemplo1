@@ -2,4 +2,4 @@
 
 ###Autores
 
-Dídac Talens -- inkling37@gmail.com
+Dídac Talens -- Insert mail
