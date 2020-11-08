@@ -1,5 +1,7 @@
 ##MARKDOWN
 
-###Autores
+##Autores
 
-Dídac Talens -- Insert mail
+Dídac Talens -- didactalensk1@gmail.com
+Aitor Medrano -- medrano_ait@gva.es
+
